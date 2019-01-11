@@ -1,1 +1,1 @@
-require('/method.js');
+var response = require('./method.js');
