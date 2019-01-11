@@ -1,2 +1,5 @@
 var response = require('./method.js');
-response.update();
+console.log(response.update());
+console.log(response.pi);
+console.log(response.data);
+response.data.updatedata();
